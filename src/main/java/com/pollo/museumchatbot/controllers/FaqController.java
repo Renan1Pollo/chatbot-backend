@@ -3,7 +3,6 @@ package com.pollo.museumchatbot.controllers;
 import com.pollo.museumchatbot.dto.MessageRequest;
 import com.pollo.museumchatbot.dto.MessageResponse;
 import com.pollo.museumchatbot.service.FaqService;
-import com.pollo.museumchatbot.utils.FaqAnswers;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
